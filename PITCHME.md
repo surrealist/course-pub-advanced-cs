@@ -6,8 +6,9 @@
 aa
 ---
 
-## Goodbye!
+## Goodbye! สวัสดี
 
 +++
 
 ## Adiós!
+ลาก่อน
