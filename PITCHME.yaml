@@ -1,1 +1,3 @@
 theme-override : css/PITCHME.css
+
+pro-menus-hidden : true
